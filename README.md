@@ -1,5 +1,7 @@
 autowx2
 ==============
+Disclaimer:
+This is my attempt to clean up and port autowx2 to python 3, because I like it a lot and I don't want anybody to go through the trouble I did to make it work on low power ARM devices (and it still has issues, which is why I'm going to attempt to fix them while porting.) I do not possess the knowledge of how to process the images, but I do sort of know python and am going to try to get it working seamlessly on a fresh raspbian install. In the process, I may change some key features to make this easier for me. Maybe it won't even resemble the original after a while, who knows.
 
 **autowx2** is a set of programs and scripts for schedule satellite and ground recordings with SDR dongle. Bundled plugins include scripts for processing weather APT images from NOAA or METEOR satellites, ISS voice communication recordings and some others.
 
